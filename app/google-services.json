@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566986807147",
+    "project_id": "signup-dedac",
+    "storage_bucket": "signup-dedac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566986807147:android:98e86dca181be6bba49e2e",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566986807147-1c53g3s2n0omqc936lml8bgijdbq7q0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3dsFT-ijeGqvkb-ZArKcK-wGgs62Nh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566986807147-1c53g3s2n0omqc936lml8bgijdbq7q0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
